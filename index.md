@@ -2,34 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Algorithmic Problems 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[cses_problem_set](https://github.com/arun7arun7/cses_problem_Set)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+  Implemented solutions of several problems in [CSES_Problem_Set](https://cses.fi/problemset/) using c++. 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ds_and_algo](https://github.com/arun7arun7/Contest-Solutions)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+  Implemented various data structures and algorithms using Java.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### Project
+[feature-toggle](https://arun7arun7.github.io/feature-toggle)
+ 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
