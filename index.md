@@ -1,4 +1,14 @@
-## Portfolio
+# Portfolio
+
+---
+
+## Certification
+
+[Problem Solving](https://www.hackerrank.com/certificates/54680ce19ec2)(Basic) and [REST API](https://www.hackerrank.com/certificates/de37188957be)(Intermediate) from Hackerrank.
+
+---
+
+## Repositories
 
 ---
 
