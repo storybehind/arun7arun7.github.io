@@ -2,9 +2,12 @@
 
 ---
 
-## Certification
+## Profiles
 
-[Problem Solving](https://www.hackerrank.com/certificates/54680ce19ec2)(Basic) and [REST API](https://www.hackerrank.com/certificates/de37188957be)(Intermediate) from Hackerrank.
+[View cses.fi profile](https://cses.fi/user/34698/) 
+
+[View codeforces profile](https://codeforces.com/profile/arun07)
+
 
 ---
 
@@ -15,6 +18,8 @@
 ### Project
 
 [feature-toggle](https://github.com/arun7arun7/feature-toggle)
+
+Simple back-end service to additionally provide the control of feature variables to this service so that new variables can be obtained without code changes in client service. Utilized : Spring Boot, MySQL, Maven
  
 ---
 
@@ -24,11 +29,5 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 Solutions of several problems in [cses_problem_set](https://cses.fi/problemset/) using c++. 
-
----
-[data_structures](https://github.com/arun7arun7/Contest-Solutions)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
-Implemented various data structures and algorithms in Java.
 
 ---
